@@ -207,7 +207,7 @@ Layer                 Example
       <t>The "noq" string identifies NETCONFoQUIC:</t>
       <ul>
         <li>Protocol: NETCONFoQUIC</li>
-        <li>Identification Sequence: 0x4e 0x6f 0x51 ("NoQ")</li>
+        <li>Identification Sequence: 0x6e 0x6f 0x71 ("noq")</li>
         <li>Specification: This document</li>
       </ul>
       <t>In addition, it is requested for IANA to reserve a UDP port TBD for 'NETCONF over QUIC'.</t>
